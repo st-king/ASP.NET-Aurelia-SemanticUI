@@ -30,7 +30,6 @@ Obj/
 .vs/
 /wwwroot/dist/
 /ClientApp/dist/
-/vendor
 
 /yarn.lock
 
